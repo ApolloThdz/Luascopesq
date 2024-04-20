@@ -1,0 +1,7 @@
+-- Opa blz? bem esse aq é meio que uma mini scope de aprendizagem em lua
+
+-- Primeiro Scopes Start
+
+function Defasync() -- Inicio de scope normalmente é () e final é end
+    -Codigo aqui
+end
